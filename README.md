@@ -2,7 +2,7 @@
 
 **Data Engineer en formación** | Transición desde 18 años en administración pública haciendo RESKILLING integral.
 
-Actualmente formandome en el bootcamp de **Factoría F5 Madrid** (1.250h) cubriendo Data Engineering, Machine Learning, Backend y DevOps.
+Actualmente formándome en el bootcamp de **Factoría F5 Madrid** (1.250h) cubriendo Data Engineering, Machine Learning, Backend y DevOps.
 
 ---
 
